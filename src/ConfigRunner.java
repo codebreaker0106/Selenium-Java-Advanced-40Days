@@ -13,7 +13,7 @@ public class ConfigRunner {
             System.out.println("Browser: " + browser + " | Timeout: " + timeout + "s");
         }
         else {
-            System.out.println("Unsupported browser");
+            System.out.println("Unsupported browser  ");
         }
 
         /**
